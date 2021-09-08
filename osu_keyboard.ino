@@ -16,7 +16,7 @@
                               |___/     
 */
 
-//LED Animation mode. You can choose from "RGB_SMOOTH", "TWINKLE", "WIPE" and "FADE"
+//LED Animation mode. You can choose from "RGB_SMOOTH", "TWINKLE", "WIPE", "RACTIVE" and "FADE"
 #define LED_MODE "REACTIVE"
 //Pin of your LEDS/LED Stripe
 #define LED_PIN 9
